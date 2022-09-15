@@ -8,4 +8,5 @@
 <div id="about" align="center">
   <img src="https://thumbs.gfycat.com/WhichMadeupIguanodon-size_restricted.gif"/>
 </div>
- <h1>:man_technologist:Обо мне</h1> :
+ <h1>:man_technologist:Обо мне:</h1>
+ <p>I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.</p>
