@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://c.tenor.com/d2unL5ax10EAAAAd/gypsy-fatty-gypsy.gif"/>
+  <img src="https://c.tenor.com/d2unL5ax10EAAAAd/gypsy-fatty-gypsy.gif" height="200px"/>
 </div>
 <h1>
   Привет!
