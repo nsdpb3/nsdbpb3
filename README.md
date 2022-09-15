@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://thumbs.gfycat.com/WhichMadeupIguanodon-size_restricted.gif" width="100"/>
+  <img src="https://i.gifer.com/7pDa.gif" width="100"/>
 </div>
